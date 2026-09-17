@@ -1,6 +1,6 @@
 ﻿using System;
 class Programm
-{   
+{
     enum AccountType
     {
         Current,
